@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login ApiKeys</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="enter_email">Ingresar Correo</string>
+    <string name="enter_password">Ingresar Contraseña</string>
+    <string name="submit">Enviar</string>
+    <string name="error_while_logging_in">Error al Iniciar Sesion</string>
+    <string name="registration">Registrarse</string>
+    <string name="enter_name">Ingresar Nombre</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo</string>
+    <string name="logout">Cerrar Sesion</string>
+    <string name="fetch_user">Obtener datos</string>
+    <string name="update_pass">Actualizar Contraseña</string>
+    <string name="delete_user">Eliminar Usuario</string>
+    <string name="update_password">Actualizar contraseña</string>
+    <string name="enter_old_password">Ingrese su contraseña actual</string>
+    <string name="enter_new_password">Ingrese su nueva contraseña</string>
+    <string name="confirm_new_password">Confirme su nueva contraseña</string>
+    <string name="error_while_updating_password">Error al actualizar la contraseña</string>
+    <string name="click_here_to_register">No tienes cuenta? Registrarse</string>
+    <string name="click_here_to_login">Ya tienes cuenta? Iniciar Sesion</string>
+</resources>
